@@ -1,4 +1,11 @@
-"""Main class to parse user's input and analyse the text
+"""
+Author: Asish Panda
+email: asishrocks95@gmail.com
+
+class to parse user's input and analyse the text. Uses a simple grammar rule to detect
+any number of determiners or preposition follwed by a single noun(fan) or adjective
+(light). The noun or adjective will help to identify the client, the preposition will
+help to identify the state.
 """
 import nltk
 
@@ -18,6 +25,4 @@ class parse:
 
 
 if __name__ == '__main__':
-    p = parse("Would you turn on the light?")
-    print(p.parse())
-
+    raise ValueError("Not meant to use directly")
