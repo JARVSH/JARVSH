@@ -13,13 +13,13 @@ For starters, who don't follow iron man you can think of JARVSH like iOS's  Siri
 
 The code for JARVSH is live at the github repository: github.com/JARVSH
 
-Contributors:
+###Contributors:
 
 * Ashutosh Das(https://github.com/ashutoshdas96)
 
 * Asish Panda(https://github.com/kaichogami)
 
-mai and support:
+###Contact and Support:
 
 * mail@jarvsh.com
 * support@jarvsh.com
