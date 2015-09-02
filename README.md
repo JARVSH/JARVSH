@@ -15,9 +15,9 @@ The code for JARVSH is live at the github repository: github.com/JARVSH
 
 Contributors:
 
-Ashutosh Das(github.com/ashutoshdas96)
+Ashutosh Das(@ashutoshdas96)
 
-Asish Panda(github.com/kaichogami)
+Asish Panda(@kaichogami)
 
 mai and support:
 
