@@ -15,11 +15,11 @@ The code for JARVSH is live at the github repository: github.com/JARVSH
 
 Contributors:
 
-Ashutosh Das(@ashutoshdas96)
+* Ashutosh Das(https://github.com/ashutoshdas96)
 
-Asish Panda(@kaichogami)
+* Asish Panda(https://github.com/kaichogami)
 
 mai and support:
 
-mail@jarvsh.com
-support@jarvsh.com
+* mail@jarvsh.com
+* support@jarvsh.com
