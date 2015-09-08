@@ -2,8 +2,8 @@
    location(kitchen, bedroom)
 """
 
-CLIENTS = ['fan', 'fans', 'light', 'tubelight', 'bulb']
+CLIENTS = ['fan', 'fans', 'light', 'tubelight', 'bulb', "AC", "geyser"]
 
-LOCATION = ['bedroom', 'kitchen', 'drawing room']
+LOCATIONS = ['bedroom', 'kitchen', 'drawing room']
 
-STATE = ['on', 'off', 'of']
+STATES = ['on', 'off', 'increase', 'decrease', 'lower']
